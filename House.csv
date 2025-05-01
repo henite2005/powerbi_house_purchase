@@ -1,0 +1,25 @@
+price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus,image,housetype,housename
+13300000,7420,4,2,3,yes,no,no,no,yes,2,yes,furnished,https://i.pinimg.com/736x/ef/02/f9/ef02f9d2a4a85614836b99c3c76b2697.jpg,safari,Nyumba
+12250000,8960,4,4,4,yes,no,no,no,yes,3,no,furnished,https://i.pinimg.com/736x/ff/50/46/ff50468c4741c2e4024e8adb4cbfe0d1.jpg,exurban,Casa
+12250000,9960,3,2,2,yes,no,yes,no,no,2,yes,semi-furnished,https://i.pinimg.com/736x/9d/44/e5/9d44e59ef7d105a2d9b37c89da948790.jpg,la carte,Home
+12215000,7500,4,2,2,yes,no,yes,no,yes,3,yes,furnished,https://i.pinimg.com/736x/b8/0e/a6/b80ea6dedca4dae5f34ae980bf880720.jpg,safari,Makazi
+11410000,7420,4,1,2,yes,yes,yes,no,yes,2,no,furnished,https://i.pinimg.com/736x/01/da/46/01da46e71828f81929ccf6588cff73e3.jpg,exurban,Mkazi
+10850000,7500,3,3,1,yes,no,yes,no,yes,2,yes,semi-furnished,https://i.pinimg.com/736x/11/2f/10/112f10173afd100bb5d50cb76954fcb8.jpg,la carte,Wakazi
+10150000,8580,4,3,4,yes,no,no,no,yes,2,yes,semi-furnished,https://i.pinimg.com/736x/57/66/4e/57664e71a2eb812e786025b024abbe83.jpg,safari,Ngome
+10150000,16200,5,3,2,yes,no,no,no,no,0,no,unfurnished,https://i.pinimg.com/736x/da/40/76/da4076a9e20d1ca08e26f4cbdfa59802.jpg,exurban,Mahala
+9870000,8100,4,1,2,yes,yes,yes,no,yes,2,yes,furnished,https://i.pinimg.com/736x/36/22/f6/3622f60fb0dbd8e500a2af6201fcddfe.jpg,la carte,Sehemu
+9800000,5750,3,2,4,yes,yes,no,no,yes,1,yes,unfurnished,https://i.pinimg.com/736x/7d/4e/be/7d4ebe3e7d53abc44a35b232b5ae8853.jpg,safari,Porini
+9800000,13200,3,1,2,yes,no,yes,no,yes,2,yes,furnished,https://i.pinimg.com/736x/ec/99/65/ec9965f1832526b6f1942cc8992f199e.jpg,exurban,Mbugani
+6475000,3960,3,1,1,yes,no,yes,no,no,2,no,semi-furnished,https://i.pinimg.com/736x/81/b6/85/81b6858fd998e483a882079e6e6b9c70.jpg,la carte,Mjini
+6475000,7410,3,1,1,yes,yes,yes,no,yes,2,yes,unfurnished,https://i.pinimg.com/736x/5e/3b/8b/5e3b8b2c220390b04ea6e34ea1b3744c.jpg,safari,Kijiwe
+6440000,8580,5,3,2,yes,no,no,no,no,2,no,furnished,https://i.pinimg.com/736x/8b/36/b4/8b36b42aa3a5a23de98611524d87aaaa.jpg,exurban,Pahala
+6440000,5000,3,1,2,yes,no,no,no,yes,0,no,semi-furnished,https://i.pinimg.com/736x/5a/9c/5c/5a9c5c21d773f6cc2e4b2e1dd8894c54.jpg,la carte,Anza
+6419000,6750,2,1,1,yes,yes,yes,no,no,2,yes,furnished,https://i.pinimg.com/736x/76/0e/ff/760eff1f84c8aff5f42563b63a6abe71.jpg,safari,Pembeni
+6405000,4800,3,2,4,yes,yes,no,no,yes,0,no,furnished,https://i.pinimg.com/736x/9f/ef/07/9fef076843a05e8aa6da6abdca3d1402.jpg,exurban,Mbali
+6300000,7200,3,2,1,yes,no,yes,no,yes,3,no,semi-furnished,https://i.pinimg.com/736x/35/da/a7/35daa7927ac42b9d5ecefd273bb878a4.jpg,la carte,Karibu
+6300000,6000,4,2,4,yes,no,no,no,no,1,no,semi-furnished,https://i.pinimg.com/736x/70/85/9f/70859ff84352447f29fca83d2768951e.jpg,safari,Chemchem
+6300000,4100,3,2,3,yes,no,no,no,yes,2,no,semi-furnished,https://i.pinimg.com/736x/f2/c4/83/f2c483479db013117762da9098cf3593.jpg,exurban,Sayit
+6300000,9000,3,1,1,yes,no,yes,no,no,1,yes,furnished,https://i.pinimg.com/736x/8c/b1/bf/8cb1bfc387fbf3ec282f076ca3746231.jpg,la carte,Sebule
+6300000,6400,3,1,1,yes,yes,yes,no,yes,1,yes,semi-furnished,https://i.pinimg.com/736x/4c/e1/0f/4ce10fd178dc8fe64ae6f383edb21610.jpg,safari,Chumba
+6293000,6600,3,2,3,yes,no,no,no,yes,0,yes,unfurnished,https://i.pinimg.com/736x/c8/52/50/c85250cc4ae3c0edf0b24671ef6786b4.jpg,exurban,Gereji
+6265000,6000,4,1,3,yes,yes,yes,no,no,0,yes,unfurnished,https://i.pinimg.com/736x/ec/99/65/ec9965f1832526b6f1942cc8992f199e.jpg,la carte,Banda
